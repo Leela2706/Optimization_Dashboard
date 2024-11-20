@@ -7,7 +7,7 @@ const HorizontalBar = () => {
       <div className="flex justify-between items-center">
         <h1 className="text-xl font-semibold">Optimization Dashboard</h1>
         <div className="text-sm">
-          <span className="mr-2">Last updated on October 25, 2023 at 2:31 PM</span>
+          <span className="mr-2">Last updated on October 25, 2023 at 2:31 AM</span>
           <button className="bg-gray-900 p-2 rounded hover:bg-gray-600">
             🔄
           </button>
